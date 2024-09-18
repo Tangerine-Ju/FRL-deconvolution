@@ -1,5 +1,8 @@
 **Codes for “Few-shot reference-guided learning for image deconvolution of optical microscopy”**
 ============
+**说明：**<br>
+少样本参考引导监督学习用于明场显微镜和光学显微镜的数字重聚焦和图像解卷积<br>
+
 **测试环境：**<br>
 python                   3.7<br>
 numpy                   1.21.0<br>
