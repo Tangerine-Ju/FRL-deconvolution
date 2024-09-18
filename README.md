@@ -16,4 +16,3 @@ one_E2: 模拟数据的模型泛化验证，对应Fig11<br>
 one_E3: 实验数据的单张图像恢复，对应Fig3、Fig4、Fig6、Fig7、Fig8、Fig10<br>
 one_E2: 实验数据的模型泛化验证，对应Fig12、Fig13<br>
 <br>
-![001](https://github.com/user-attachments/assets/b7a01505-3e7f-4d64-96b3-3cb366eb3b48)
