@@ -1,3 +1,10 @@
+**Codes for "Few-shot reference-guided learning for efficient deconvolution of microscope imaging"**
+
+用于实现少样本参考引导学习模式的光学显微图像解卷积
+
+
+**以下是代码对应的描述和数据：**
+
 one_E1: 模拟数据的单张图像恢复，对应Fig2、Fig4、FigS3a
 
 one_E2: 模拟数据的模型泛化验证，对应FigS5a
@@ -6,7 +13,7 @@ one_E3: 实验数据的单张图像恢复，对应Fig3、Fig5、Fig6、FigS3b
 
 one_E4: 实验数据的模型泛化验证，对应Fig7、FigS5b
 
-测试环境：
+**测试环境：**
 
 python                   3.7
 
